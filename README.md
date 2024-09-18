@@ -1,2 +1,3 @@
-# test_repo_training_demo
+# Test repo for training demo
+
 This repo is just for demo purposes.
